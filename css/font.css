@@ -1,0 +1,90 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Znamenny+Musical+Notation&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Khitan+Small+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols+2&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Cypro+Minoan&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Ottoman+Siyaq&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Music&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SignWriting&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Indic+Siyaq+Numbers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mayan+Numerals&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Math&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gasoek+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hi+Melody&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gaegu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&display=swap');
+
+.play{font-family: "Play", sans-serif;}
+.titilliumweb{font-family: "Titillium Web", sans-serif;}
+.anton{font-family: "Anton", sans-serif;}
+.montserrat{font-family: "Montserrat", sans-serif;}
+.notosans{font-family: "Noto Sans", sans-serif;}
+.notoserif{font-family: "Noto Serif", serif;}
+.notosansdisplay{font-family: "Noto Sans Display", sans-serif;}
+.notosansmono{font-family: "Noto Sans Mono", monospace;}
+.notoznamennymusicalnotation{font-family: "Noto Znamenny Musical Notation", sans-serif;}
+.notoserifdisplay{font-family: "Noto Serif Display", serif;}
+.notosanssymbols{font-family: "Noto Sans Symbols", sans-serif;}
+.notoserifkhitansmallscript{font-family: "Noto Serif Khitan Small Script", serif;}
+.notosanssymbols2{font-family: "Noto Sans Symbols 2", sans-serif;}
+.notosanscyprominoan{font-family: "Noto Sans Cypro Minoan", sans-serif;}
+.notoserifottomansiyaq{font-family: "Noto Serif Ottoman Siyaq", serif;}
+.notomusic{font-family: "Noto Music", sans-serif;}
+.notosanssignwriting{font-family: "Noto Sans SignWriting", sans-serif;}
+.notosansindicsiyaqnumbers{font-family: "Noto Sans Indic Siyaq Numbers", sans-serif;}
+.notosansmayannumerals{font-family: "Noto Sans Mayan Numerals", sans-serif;}
+.notosansmath{font-family: "Noto Sans Math", sans-serif;}
+.chocolateclassicalsans{font-family: "Chocolate Classical Sans", sans-serif;}
+.opensans{font-family: "Open Sans", sans-serif;}
+.poppins{font-family: "Poppins", sans-serif;}
+.lato{font-family: "Lato", sans-serif;}
+.inter{font-family: "Inter", sans-serif;}
+.oswald{font-family: "Oswald", sans-serif;}
+
+.notosanskr{font-family: "Noto Sans KR", sans-serif;}
+.notoserifkr{font-family: "Noto Serif KR", serif;}
+.nanumgothic{font-family: "Nanum Gothic", sans-serif;}
+.nanumgothiccoding{font-family: "Nanum Gothic Coding", monospace;}
+.nanummyeongjo{font-family: "Nanum Myeongjo", serif;}
+.nanumpenscript{font-family: "Nanum Pen Script", cursive;}
+.nanumbrushscript{font-family: "Nanum Brush Script", cursive;}
+.gothica1{font-family: "Gothic A1", sans-serif;}
+.gasoekone{font-family: "Gasoek One", sans-serif;}
+.dongle{font-family: "Dongle", sans-serif;}
+.himelody{font-family: "Hi Melody", sans-serif;}
+.gugi{font-family: "Gugi", sans-serif;}
+.gaegu{font-family: "Gaegu", sans-serif;}
+.songmyung{font-family: "Song Myung", serif;}
+.singleday{font-family: "Single Day", cursive;}
+.eastseadokdo{font-family: "East Sea Dokdo", sans-serif;}
+.cutefont{font-family: "Cute Font", sans-serif;}
